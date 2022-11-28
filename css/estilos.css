@@ -1,19 +1,19 @@
 body
 {
-    background: # le 1f 24px;
-    color: black #333;
+    background:rgb(244, 244, 248);
+    color: black;
     Text-align: center;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 25px;
     margin: 0;
     padding: 0;
 }
 
 #Cabecera
 {
-    background:#37488b
-    box-shadow: 0px 2px 20px 0px rgba(red, green, blue, alpha)(0,0,0,0.5); 
-    color: white 
+    background: rgb(85, 85, 218);
+    box-shadow: 0px 5px 30px 0px rgba(12, 2, 2, 0.75); 
+    color:rgb(10, 9, 9);
     font-weight: bold;
     margin: 0;
     padding: 0.5em 
@@ -21,7 +21,7 @@ body
 
 #cabecera #Logo
 {
-    width: 20px;
+    width: 50px;
     vertical-align: middle;
 }
 
