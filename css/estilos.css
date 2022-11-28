@@ -1,7 +1,7 @@
 body
 {
     background: # le 1f 24px;
-    color: #333;
+    color: black #333;
     Text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -12,8 +12,8 @@ body
 #Cabecera
 {
     background:#37488b
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5); 
-    color: white;
+    box-shadow: 0px 2px 20px 0px rgba(red, green, blue, alpha)(0,0,0,0.5); 
+    color: white 
     font-weight: bold;
     margin: 0;
     padding: 0.5em 
@@ -35,9 +35,9 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(233, 226, 226);
     margin: 0 auto;
 }
 
