@@ -28,7 +28,11 @@ body
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
+<<<<<<< HEAD
     font-weight: normal;
+=======
+    font-weight: normal; 
+>>>>>>> fooder
     font-size: 0.8em;
 }
 
@@ -47,6 +51,19 @@ body
 }
 #post
 {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
+=======
+padding: 1em;
+}
+
+#fooder
+{
+    background:#777;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
+
+>>>>>>> fooder
 }
